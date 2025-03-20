@@ -1,0 +1,12 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "react native app rest api",
+  "license": "MIT",
+  "author": "Sameera Udesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
