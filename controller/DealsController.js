@@ -1,0 +1,1 @@
+const Deals = require('../model/DealsSchema');

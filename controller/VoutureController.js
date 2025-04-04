@@ -1,0 +1,1 @@
+const Voutcher = require('../model/VoucherSchema');
